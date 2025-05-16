@@ -1,5 +1,6 @@
 # 9001VPet
 9001VPet – A terminal-based virtual dog pet game in Python
+Interact with your dog entirely via the command line—no GUI.
 
 ## 📋 Features
 
@@ -13,4 +14,6 @@
 - **Game over**: If any stat hits 0, the game ends with a “Game Over” message  
 
 ---
-
+## ▶️ Usage
+just run
+python main.py
