@@ -15,5 +15,7 @@ Interact with your dog entirely via the command line—no GUI.
 
 ---
 ## ▶️ Usage
-just run
-python main.py
+├── dogpet.py # Defines the DogPet class (all methods)
+├── main.py # Entry point: imports DogPet from dogpet.py and runs the game loop
+
+Run the game by executing: python main.py
